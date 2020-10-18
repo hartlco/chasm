@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://hartl.co/chasm/sitemap.xml
